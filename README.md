@@ -1,2 +1,1 @@
-# samolet
-Landing for samolet
+# Samolet Fin Tech
