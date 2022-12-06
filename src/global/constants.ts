@@ -1,0 +1,8 @@
+export const MainBlueColor = '#007BFB'
+export const MainBlueHoverColor = '#3395FC'
+export const GrayBackgroundColor = '#F5F7FB'
+export const GrayTextColor = '#8C94A8'
+export const BluePrimaryColor = '#66B0FD'
+export const BlackTextColor = '#282D3C'
+export const BlackMessageTextColor = '#081F2C'
+export const BlueBackgroundColor = '#CCE5FE'
