@@ -1,1 +1,0 @@
-# Samolet Fin Tech
