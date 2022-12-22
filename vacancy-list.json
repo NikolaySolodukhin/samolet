@@ -1,0 +1,20 @@
+{
+  "vacancyList": [
+    {
+      "text": "Финансовый аналитик",
+      "link": "https://vk.com",
+      "id": "123"
+    },
+    {
+      "text": "Ведущий юрист",
+      "link": "https://ya.ru",
+      "id": "21323"
+    },
+    {
+      "text": "Менеджер продукта",
+      "link": "https://google.com",
+      "id": "231412"
+    }
+  ]
+}
+
